@@ -9,10 +9,10 @@
 
 ## IPFS Modules
 
-![](/images/ipfs-stack.png)
+![](../images/ipfs-stack.png)
 
 ---
 
 ## IPFS Node
 
-![](/images/ipfs-node.jpg)
+![](../images/ipfs-node.jpg)

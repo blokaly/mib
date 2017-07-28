@@ -17,7 +17,7 @@
 
 ## Merkle Tree
 
-![](/images/merkle-tree.png)
+![](../images/merkle-tree.png)
 
 [https://en.wikipedia.org/wiki/Merkle_tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
@@ -25,10 +25,16 @@
 
 ## Public Key Cryptography
 
-![](/images/pubkey.png)
+![](../images/pubkey.png)
 
 ---
 
 ## Digital Signature
 
-![](/images/digital-signature.png)
+![](../images/digital-signature.png)
+
+---
+
+## Chain of Blocks
+
+![](../images/blockchain.png)
