@@ -23,6 +23,5 @@
 
 ![](../images/meteor-project.png)
 
----
 
 
