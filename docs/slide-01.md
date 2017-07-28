@@ -23,6 +23,7 @@
 
 ![](../images/meteor-project.png)
 
+---
 
 ## Component Layout
 
