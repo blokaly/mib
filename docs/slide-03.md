@@ -27,14 +27,19 @@
 
 ![](../images/pubkey.png)
 
+Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)
+
 ---
 
 ## Digital Signature
 
 ![](../images/digital-signature.png)
 
+(http://searchsecurity.techtarget.com/definition/digital-signature)
+
 ---
 
-## Chain of Blocks
+## Bitcoin Chain
 
 ![](../images/blockchain.png)
+
