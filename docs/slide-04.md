@@ -12,7 +12,7 @@
 
 ## Hierarchical Deterministic Wallet
 
-![](../images/hdw.png)
+![](images/hdw.png)
 
 <small>Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)</small>
 

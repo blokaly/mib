@@ -1,6 +1,6 @@
 ## Meteor Overview
 
-![](../images/meteor.jpg)
+![](images/meteor.jpg)
 
 ---
 
@@ -15,16 +15,16 @@
 ---
 
 ## Architecture
-![](../images/meteor-arch.png)
+![](images/meteor-arch.png)
 
 ---
 
 ## Project Layout
 
-![](../images/meteor-project.png)
+![](images/meteor-project.png)
 
 
 ## Component Layout
 
-![](../images/meteor-component.png)
+![](images/meteor-component.png)
 

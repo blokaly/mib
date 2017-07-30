@@ -2,13 +2,13 @@
 
 https://www.blokaly.com/
 
-![](../images/blokaly.png)
+![](images/blokaly.png)
 
 ---
 
 ## Blokaly Overview
 
-![](../images/blokaly-demo.jpg)
+![](images/blokaly-demo.jpg)
 
 ---
 

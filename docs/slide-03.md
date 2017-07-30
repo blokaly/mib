@@ -17,7 +17,7 @@
 
 ## Merkle Tree
 
-![](../images/merkle-tree.png)
+![](images/merkle-tree.png)
 
 [https://en.wikipedia.org/wiki/Merkle_tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
@@ -25,7 +25,7 @@
 
 ## Public Key Cryptography
 
-![](../images/pubkey.png)
+![](images/pubkey.png)
 
 Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)
 
@@ -33,7 +33,7 @@ Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)
 
 ## Digital Signature
 
-![](../images/digital-signature.png)
+![](images/digital-signature.png)
 
 (http://searchsecurity.techtarget.com/definition/digital-signature)
 
@@ -41,5 +41,5 @@ Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)
 
 ## Bitcoin
 
-![](../images/blockchain.png)
+![](images/blockchain.png)
 

@@ -53,6 +53,6 @@ console.log('Token:', token);
 ## ECDH
 (Elliptic Curve Diffie-Hellman)
 
-![](../images/ecdh.jpg)
+![](images/ecdh.jpg)
 
 (https://e2e.ti.com/blogs_/b/connecting_wirelessly/archive/2016/08/11/how-bluetooth-4-2-can-help-enable-product-security)

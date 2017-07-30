@@ -9,7 +9,7 @@
 
 ## IPFS Modules
 
-![](../images/ipfs-stack.png)
+![](images/ipfs-stack.png)
 
 (https://www.slideshare.net/InfoQ/data-structures-in-and-on-ipfs)
 
@@ -17,6 +17,6 @@
 
 ## IPFS Node
 
-![](../images/ipfs-node.jpg)
+![](images/ipfs-node.jpg)
 
 (https://www.slideshare.net/InfoQ/data-structures-in-and-on-ipfs)

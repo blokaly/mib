@@ -2,4 +2,4 @@
 
 https://blokaly.github.io/mib/
 
-![](../images/mib-qr.png)
+![](images/mib-qr.png)
