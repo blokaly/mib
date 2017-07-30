@@ -24,6 +24,12 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
+                <section data-markdown="docs/slide-00.md"
+                         data-separator="^\r?\n----\r?\n$"
+                         data-separator-vertical="^\r?\n---\r?\n$"
+                         data-separator-notes="^Note:"
+                         data-charset="iso-8859-15">
+                </section>
 				<section data-markdown="docs/slide-01.md"
 						 data-separator="^\r?\n----\r?\n$"
 						 data-separator-vertical="^\r?\n---\r?\n$"
@@ -54,6 +60,18 @@
 						 data-separator-notes="^Note:"
 						 data-charset="iso-8859-15">
 				</section>
+                <section data-markdown="docs/slide-06.md"
+                         data-separator="^\r?\n----\r?\n$"
+                         data-separator-vertical="^\r?\n---\r?\n$"
+                         data-separator-notes="^Note:"
+                         data-charset="iso-8859-15">
+                </section>
+                <section data-markdown="docs/slide-07.md"
+                         data-separator="^\r?\n----\r?\n$"
+                         data-separator-vertical="^\r?\n---\r?\n$"
+                         data-separator-notes="^Note:"
+                         data-charset="iso-8859-15">
+                </section>
 			</div>
 		</div>
 
@@ -79,8 +97,13 @@
                     46: function() { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
                     8: function() { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
                     68: function() { RevealChalkboard.download() }	// downlad recorded chalkboard drawing when 'd' is pressed
-                }
+                },
+               chalkboard: {
+                  // configuration options for notes canvas and chalkboard
+                  color: [ 'rgba(255,0,0,1)', 'rgba(255,255,255,0.5)' ]
+               }
 			});
+            Reveal.configure({ slideNumber: true });
 		</script>
 	</body>
 </html>

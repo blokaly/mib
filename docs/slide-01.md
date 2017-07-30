@@ -15,7 +15,7 @@
 ---
 
 ## Architecture
-![](../images/meteor-arch.jpg)
+![](../images/meteor-arch.png)
 
 ---
 
@@ -23,5 +23,9 @@
 
 ![](../images/meteor-project.png)
 
+---
 
+## Component Layout
+
+![](../images/meteor-component.png)
 

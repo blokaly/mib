@@ -9,7 +9,7 @@
 
 ## Hash Functions
 
-- Hash functions are basically used to compress a message to a fixed length digest.
+- Hash functions are basically used to compress a message to a fixed length digest
 - Secure Hash Algorithms (SHAs), SHA256
 - RACE Integrity Primitives Evaluation Message Digest (RIPMED), RIPMED160
 
@@ -39,7 +39,7 @@ Master Bitcoin (http://chimera.labs.oreilly.com/books/1234000001802/ch04.html)
 
 ---
 
-## Bitcoin Chain
+## Bitcoin
 
 ![](../images/blockchain.png)
 
