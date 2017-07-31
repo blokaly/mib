@@ -1,4 +1,4 @@
-## Blockchain Overview
+## Blockchain Highlights
 
 - Hash Functions
 - Merkle Tree
@@ -10,8 +10,8 @@
 ## Hash Functions
 
 - Hash functions are basically used to compress a message to a fixed length digest
-- Secure Hash Algorithms (SHAs), SHA256
-- RACE Integrity Primitives Evaluation Message Digest (RIPMED), RIPMED160
+- Secure Hash Algorithms (SHAs): SHA256, SHA3(Keccak)
+- RACE Integrity Primitives Evaluation Message Digest (RIPEMD): RIPEMD160
 
 ---
 
