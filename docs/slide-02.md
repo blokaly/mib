@@ -1,6 +1,6 @@
 ## IPFS Overview
 
-- InterPlanetary File System (https://ipfs.io)
+- **I**nter**P**lanetary **F**ile **S**ystem
 - Distributed
 - Immutable
 - Permanent

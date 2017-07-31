@@ -6,10 +6,13 @@
 
 ## Features
 
-- Current version 1.5 (https://guide.meteor.com)
-- Full Stack, Client/Server File Loading
-- DDP (Push Updates)
-- Dynamic Imports, Async/Await
+- Current version 1.5 (Node v4 + MongoDB v3.2)
+- Full Stack JS framework
+- Code Splitting (client/server)
+- **D**istributed **D**ata **P**rotocol (push updates)
+- Hot Reloading
+- Dynamic Imports
+- Support Async/Await
 - Mobile Support (Cordova)
 
 ---
