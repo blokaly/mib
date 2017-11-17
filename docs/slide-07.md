@@ -16,6 +16,14 @@
 
 ---
 
+## DAO
+
+- **D**ecentralized **A**utonomous **O**rganization
+- Organization run through rules encoded by smart contracts
+- Issues
+
+---
+
 ## Examples
 
 - https://www.stateofthedapps.com/
